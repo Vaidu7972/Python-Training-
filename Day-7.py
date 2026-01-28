@@ -2,7 +2,7 @@
 DICTIONARY = {"Key" : "value"} pairs (unorder, mutable, don't duplicate keys.)
 """
 dic={
-    "key" : "value",
+    "key" : "value",                #we can store str,int,boolean,float,list.set..
     "name" : "vaidehi",
     "age" : 20,
     "is adult" : True,
@@ -69,4 +69,5 @@ print(stu)
 
 stu.update({"name" : "as"})
 print(stu,"\n")
+
 
